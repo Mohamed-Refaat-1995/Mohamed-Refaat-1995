@@ -1,52 +1,51 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
+  <!-- <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/4ᵗʰ Most Active User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
+-->
+<h1 align="center">Hi, I'm Mohamed Refaat</h1>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <!--<a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> --><!-- Google Me -->
+    
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repos;+Follow+to+get+more+updates)
 </div>
+<!--
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
+      <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
+  </p>
+  -->
+  <!--
+  <p>
+    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> 
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
+  </p>
+-->
+  ### 📤 Find me on
+  <p align="left">
+    <a href="mailto:mohamed.refaat.99380@gmail.com">
+      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
+    <a href="https://linkedin.com/in/a-hemeda](https://www.linkedin.com/in/mohamed-refaat-aa8629283">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+  </p>
 
-###
+### 🛠️ Top Technical Skills & Tools
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
+  </p>
 
-###
+  ### 🏆 GitHub Trophies
+  
+  <p align="center">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
